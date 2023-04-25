@@ -1,12 +1,12 @@
-*Numero de equipo: 10.
-*Autores de la resolución: Alexander Aracena
-*Usuario github: angraween.
-*Legajo: 150.565-8
-*Apellido: Aracena.
-*Nombre: Alexander.
-*Numero y titulo del trabajo: 00-CHelloworld.
-*Compilador: GCC (Linux)
-*Transcripción del enunciado.
+* umero de equipo: 10.
+* Autores de la resolución: Alexander Aracena
+* Usuario github: angraween.
+* Legajo: 150.565-8
+* Apellido: Aracena.
+* Nombre: Alexander.
+* Numero y titulo del trabajo: 00-CHelloworld.
+* Compilador: GCC (Linux)
+* Transcripción del enunciado.
 
 1. Cuenta en GitHub.
 a. Si no tiene, cree una cuenta GitHub.
